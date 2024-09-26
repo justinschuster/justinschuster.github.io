@@ -4,7 +4,5 @@ title: Resume
 permalink: /resume/
 ---
 
-# Resume
-
-## Contact Info
+### Contact Info
 schujustin@gmail.com
