@@ -29,6 +29,11 @@ url: "https://justinschuster.github.io" # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 github_username:  justinschuster
 
+# Styling
+sass:
+  sass_dir: _sass
+  style: expanded
+
 # Build settings
 theme: minima
 plugins:
