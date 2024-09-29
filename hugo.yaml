@@ -2,3 +2,18 @@ baseURL: https://justinschuster.github.io/
 languageCode: en-us
 title: Justin Schuster
 theme: PaperMod
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 20
