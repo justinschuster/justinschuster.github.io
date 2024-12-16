@@ -13,6 +13,10 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: cool
+      name: Cool
+      url: /cool/
+      weight: 20
     - identifier: resume
       name: Resume
       url: /resume/
