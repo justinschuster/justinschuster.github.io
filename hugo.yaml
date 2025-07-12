@@ -17,7 +17,3 @@ menu:
       name: Cool
       url: /cool/
       weight: 20
-    - identifier: resume
-      name: Resume
-      url: /resume/
-      weight: 20
